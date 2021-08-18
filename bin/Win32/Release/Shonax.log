@@ -1,0 +1,143 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of merged_compiled.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are merged_compiled.cpp, supremacy merge\merged_compiled.cpp.
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  autowall.cpp
+  slowwalk.cpp
+  CGrenadeAPI.cpp
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  animation_system.cpp
+  local_animations.cpp
+  resolver.cpp
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  setup_bones.cpp
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  backtrack.cpp
+  legitbot.cpp
+  menu.cpp
+  airstrafe.cpp
+  bunnyhop.cpp
+  fakelag.cpp
+  key_binds.cpp
+  logs.cpp
+  misc.cpp
+  prediction_system.cpp
+  spammers.cpp
+  aim.cpp
+  antiaim.cpp
+  knifebot.cpp
+  zeusbot.cpp
+  bullet_tracers.cpp
+  dormant_esp.cpp
+  GrenadePrediction.cpp
+  nightmode.cpp
+  other_esp.cpp
+  player_esp.cpp
+  world_visuals.cpp
+  configs.cpp
+  hooks.cpp
+  firegameevent hook.cpp
+  hooked_beginframe.cpp
+  hooked_createmove.cpp
+  hooked_dme.cpp
+  hooked_drawfog.cpp
+  hooked_events.cpp
+  hooked_findmdl.cpp
+  hooked_fsn.cpp
+  hooked_getmaterial.cpp
+  hooked_ishltv.cpp
+  hooked_listleavesinbox.cpp
+  hooked_lockcursor.cpp
+  hooked_overrideview.cpp
+  hooked_painttraverse.cpp
+  hooked_postscreeneffects.cpp
+  hooked_runcommand.cpp
+  hooked_sceneend.cpp
+  hooked_senddatagram.cpp
+  hooked_player.cpp
+  hooked_isconnected.cpp
+  hooked_trace.cpp
+  messages hooks.cpp
+  sequence hook.cpp
+  viewmodel hook.cpp
+  vfunc_hook.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_freetype.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  inventorychanger.cpp
+  items.cpp
+  kitparser.cpp
+  jsoncpp.cpp
+  main.cpp
+  merged_compiled.cpp
+  console.cpp
+  inprediction.cpp
+  merged.cpp
+  network.cpp
+  NetworkedVariables.cpp
+  renderable.cpp
+  item_definitions.cpp
+  SkinChanger.cpp
+  Platform.cpp
+  Protobuffs.cpp
+  custom_sounds.cpp
+  js_functions.cpp
+  js_loader.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  Memory.cpp
+  characterset.cpp
+  checksum_crc.cpp
+  checksum_md5.cpp
+  Color.cpp
+  Convar.cpp
+  threadtools.cpp
+  UtlBuffer.cpp
+  UtlString.cpp
+  structs.cpp
+  parserz.cpp
+  vdf_parser.cpp
+  parser.cpp
+  skins.cpp
+  merged_compiled.cpp
+  csgo.cpp
+  ctx.cpp
+  draw_manager.cpp
+  math.cpp
+  md5.cpp
+  netmanager.cpp
+  recv.cpp
+  sha-256.cpp
+  twofish.cpp
+  util.cpp
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  buffer.c
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  duktape.c
+F:\DoubleTap.Space v4 SRC\doubletaprage.03.28.2021\doubletaprage.01.28.2020\doubletaprage.01.21.2020\doubletaprage.12.16.2020\doubletaprage.11.26.2020\backup\doubletaprage\bin\Win32\Release\merged_compiled.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 21728 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Shonax.vcxproj -> F:\DoubleTap.Space v4 SRC\doubletaprage.03.28.2021\doubletaprage.01.28.2020\doubletaprage.01.21.2020\doubletaprage.12.16.2020\doubletaprage.11.26.2020\backup\doubletaprage\build\doubletap1.dll
